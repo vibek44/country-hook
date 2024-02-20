@@ -1,3 +1,3 @@
 # React + Vite
 
--use of hooks to split component logic for reuse
+-use of custom hooks to split component logic for reuse
